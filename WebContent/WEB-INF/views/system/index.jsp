@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="copyright" content="All Rights Reserved, Copyright (C) 2013, Wuyeguo, Ltd." />
+<meta name="copyright" content="All Rights Reserved, Copyright (C) 2020, 倾、洛, Ltd." />
 <title>【倾、洛】后台管理</title>
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/easyui/1.3.4/themes/default/easyui.css" />
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/css/wu.css" />
@@ -38,8 +38,8 @@
         	<h1>【倾、洛】后台管理系统</h1>
         </div>
         <div class="wu-header-right">
-        	<p><strong class="easyui-tooltip" title="2条未读消息">${role.name}:${admin.username}</strong>，欢迎您！</p>
-            <p><a href="#">网站首页</a>|<a href="#">支持论坛</a>|<a href="#">帮助中心</a>|<a href="logout">安全退出</a></p>
+        	<p><strong class="easyui-tooltip" >${role.name}:${admin.username}</strong>，欢迎您！</p>
+            <p><a href="logout">安全退出</a></p>
         </div>
     </div>
     <!-- end of header -->
@@ -69,7 +69,7 @@
     <!-- end of main --> 
     <!-- begin of footer -->
 	<div class="wu-footer" data-options="region:'south',border:true,split:true">
-    	&copy; 2013 Wu All Rights Reserved
+    	&copy; 2020  by倾、洛 
     </div>
     <!-- end of footer -->  
     <script type="text/javascript">

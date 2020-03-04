@@ -9,7 +9,7 @@
 <div title="欢迎使用" style="padding:20px;overflow:hidden; color:red; " >
 	<p style="font-size: 50px; line-height: 60px; height: 60px;">${admin.username}</p>
 	<p style="font-size: 25px; line-height: 30px; height: 30px;">欢迎使用SSM框架后台管理系统</p>
-  	<p>开发人员：志伟偷野猪</p>
+  	<p>开发人员：天气好的话</p>
   	
   	
   	<hr />
